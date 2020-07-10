@@ -1,0 +1,537 @@
+" IN" : {
+    "ale": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "arepa": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ],
+            [
+                "FujWGifJcalbx62VatJ15w",
+                1,
+                1.0
+            ]
+        ]
+    ],
+    "bacon": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "beef": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "bison": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "blueberry": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "boneless": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "breast": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                5,
+                4.6
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                2,
+                4.5
+            ]
+        ]
+    ],
+    "budino": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "carne": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "cheese": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "chicken": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                3,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "choy": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "cinnamon": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "coffee": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                2,
+                5.0
+            ],
+            [
+                "FujWGifJcalbx62VatJ15w",
+                1,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                4.0
+            ]
+        ]
+    ],
+    "cookie": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "earl": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "egg": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "fillet": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "fish": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "fried": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                2,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "fry": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "goat": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "gravy": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                3,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "guinness": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "halo": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "hash": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "honey": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "hot": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "karaage": [
+        [
+            [
+                "FujWGifJcalbx62VatJ15w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "meatloaf": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                2,
+                5.0
+            ]
+        ]
+    ],
+    "omelet": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "pate": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                2,
+                5.0
+            ]
+        ]
+    ],
+    "persian": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "porter": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                4.0
+            ],
+            [
+                "FujWGifJcalbx62VatJ15w",
+                1,
+                3.0
+            ]
+        ]
+    ],
+    "punch": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "remoulade": [
+        [
+            [
+                "FujWGifJcalbx62VatJ15w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "rice": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                2,
+                5.0
+            ],
+            [
+                "FujWGifJcalbx62VatJ15w",
+                2,
+                4.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "sandwich": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "sauce": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "sausage": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "scotch": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "seafood": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                4,
+                4.75
+            ],
+            [
+                "FujWGifJcalbx62VatJ15w",
+                2,
+                3.0
+            ],
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "sesame": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "smore": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "snapper": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "steak": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ],
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "sweet": [
+        [
+            [
+                "GntfUKLnS3CclL-lCBoJ1w",
+                2,
+                5.0
+            ]
+        ]
+    ],
+    "waffle": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ],
+    "wonton": [
+        [
+            [
+                "cry1N2qJNCpHlFEGK_EB2A",
+                1,
+                5.0
+            ]
+        ]
+    ]
+};
